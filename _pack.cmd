@@ -1,0 +1,1 @@
+packages\ILRepack.2.0.18\tools\ILRepack.exe --targetplatform:v4 --wildcards --parallel --internalize --out:bin/ClipboardMonitor.exe ClipboardMonitor/bin/Release/ClipboardMonitor.exe ClipboardMonitor/bin/Release/System.*.dll
